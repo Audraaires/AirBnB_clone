@@ -167,4 +167,4 @@ All the tests should be executed at the root of the project by using the followi
 ##  Authors
 
 - [GitHub - Sandra Bansah](https://github.com/Audraaires)
-- [GitHub - Edward Dziworshie] (https://github.com/Eddie-blaze19)
+- [GitHub - Edward Dziworshie](https://github.com/Eddie-blaze19) 
