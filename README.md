@@ -31,7 +31,7 @@ For further information, click on the previous link.
 
 - Project Description
 
-- General Objetives
+- General Objectives
 
 - Command Interpreter Description
 
@@ -49,7 +49,7 @@ Airbnb Clone is the main project of the second trimester at Holberton School. Th
 
 
 
-##  General Objetives
+##  General Objectives
 
 * How to create a Python package
 
