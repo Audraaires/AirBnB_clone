@@ -1,1 +1,1 @@
-A subdirectory of AirBnB with creation of HTML and CSS styling.
+A subdirectory of AirBnB_clone with creation of HTML and CSS styling.
